@@ -10,6 +10,7 @@ The CSS style and reset style sheets can be found under ```/assets/styles/style.
 The Javascript can be found under ```/assets/script/script.js```
 
 ## Link to Site
+https://bertisjoey.github.io/Daily-Planner/
 
 ## Screenshot of site
 ![Screenshot of site](./assets/images/planner-screenshot.png)
